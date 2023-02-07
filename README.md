@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I have been learning to code for few years , after switching careers . I started with HTML , CSS (pre-processors like SASS) , JavaScript (ES6+) , Redux , Bootstrap . But , Have really found a passion for Full-Stack Front End Developer Eco-System .
+I have been learning to code for few years , after switching careers . I started with HTML , CSS (pre-processors like SASS) , JavaScript (ES6+) , React.js , Redux , Bootstrap . But , Have really found a passion for Full-Stack Front End Developer Eco-System .
 
 * 🌍  I'm based in Andhra Pradesh , India
 * ✉️  You can contact me at [narendrakoya134679@gmail.com](mailto:narendrakoya134679@gmail.com)
