@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendrakoya999" alt="narendrakoya999" /></a> </p>
 
-- 🔭 I’m currently working on **Front End Developer Projects**
+- 🔭 I’m currently working on **Open Source Front End Developer Projects**
 
 - 🌱 I’m currently learning **HTML5,CSS3,JavaScript,React.js,Redux,SASS,Bootstrap,Node.js**
 
