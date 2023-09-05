@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Koya</h1>
-<h3 align="center">A passionate Front End Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrakoya999&label=Profile%20views&color=0e75b6&style=flat" alt="narendrakoya999" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Open Source Front End Developer Projects**
 
-- 🌱 I’m currently learning **HTML5,CSS3,JavaScript,React.js,Redux,SASS,Bootstrap,Node.js**
+- 🌱 I’m currently learning **HTML5, CSS3,JavaScript(ES6+),React.js,Redux,Node.js,Git,GitHub**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NarendraKoya999](https://github.com/NarendraKoya999)
 
-- 💬 Ask me about **Front End Developement**
+- 💬 Ask me about **Frontend Development Tech Stacks**
 
 - 📫 How to reach me **narendrakoya134679@gmail.com**
 
@@ -19,8 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/narendra-koya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/narendra-koya" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/NarendraKoya999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="narendrakoya999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/narendra-koya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-koya" height="30" width="40" /></a>
+<a href="https://codesandbox.com/narendrakoya999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="narendrakoya999" height="30" width="40" /></a>
+<a href="https://discord.gg/narendra7821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="narendra7821" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
