@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NarendraKoya999](https://github.com/NarendraKoya999)
 
-- 💬 Ask me about **Front End Developer**
+- 💬 Ask me about **Front End Developement**
 
 - 📫 How to reach me **narendrakoya134679@gmail.com**
 
