@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Developer Projects<br>👯 I’m looking to collaborate on GitHub, LinkedIn, Discord and Other Platforms<br>🤝 I’m looking for help with Frontend Development<br>🌱 I’m currently learning HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Node.js and More...<br>💬 Ask me about Frontend Development Tech Stack<br>⚡ Fun fact I am Funny
+🔭 I’m currently working on **Frontend Developer Projects**<br>👯 I’m looking to collaborate on **GitHub, LinkedIn, Discord and Other Platforms**<br>🤝 I’m looking for help with **Frontend Development**<br>🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Node.js and More...** <br>💬 Ask me about **Frontend Development Tech Stack**<br>⚡ Fun fact **I am Funny**
 
 
 ## 🌐 Socials:
