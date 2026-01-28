@@ -1,6 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on **Frontend Development Projects**<br>👯 I’m open to collaborating on **GitHub, LinkedIn, Discord, and other dev platforms**<br>🤝 I’m looking to connect with **fellow frontend developers and mentors**<br>🌱 Currently learning and building with **HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Vue.js, and more**<br>💬 Ask me **anything about the frontend tech stack — I love sharing what I know**<br>⚡ Fun fact: **I’m pretty funny… or at least my console logs say so 😄**<br>
+# 💫 About Me
 
+👋 Hi! I’m a Frontend Developer passionate about building fast, accessible, and user-friendly web experiences.
+
+🔭 Currently working on **frontend development projects**  
+👯 Open to collaborating via **GitHub, LinkedIn, Discord, and other dev platforms**  
+🤝 Looking to connect with **fellow frontend developers and mentors**  
+🌱 Actively learning and building with **modern JavaScript frameworks and best practices**  
+💬 Happy to chat about **frontend tech, performance, and UI/UX**  
+⚡ Fun fact: *I’m pretty funny… or at least my console logs think so 😄*
+
+## 🛠️ Tech Stack & Skills
+
+### 🚀 Frontend
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js, Vue.js  
+- HTML5, CSS3, Tailwind CSS, SASS/SCSS  
+
+### 🧠 State Management & UI
+- Redux Toolkit, Context API, Vuex  
+- Material UI  
+
+### ⚡ Performance & SEO
+- SSR, Lazy Loading, Code Splitting  
+- Image Optimization, Core Web Vitals  
+- Lighthouse Audits  
+
+### ♿ Accessibility
+- WCAG, ARIA  
+- Semantic HTML, Keyboard Navigation  
+
+### 🧪 Testing
+- Jest, React Testing Library, Cypress  
+
+### 🧰 Tools & Workflow
+- Git, GitHub, Webpack  
+- NPM / Yarn, CI/CD  
+- JIRA, VS Code, Chrome DevTools  
+
+### 🌐 APIs & Backend
+- REST APIs, GraphQL  
+- Firebase, Node.js, Express.js  
+
+### 🎨 UI/UX Awareness
+- Usability principles  
+- Accessibility-first design thinking
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/narendra-koya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendra.koya.in@gmail.com) 
