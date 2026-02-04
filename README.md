@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m a **Full Stack Developer (Next.js)** passionate about building fast, accessible, and user-friendly web experiences.
+👋 Hi! I’m a **Full Stack Developer (Next.js)** passionate about building fast, responsive, accessible, and user-friendly web experiences.
 
 🔭 Currently working on **frontend development projects**<br>👯 Open to collaborating via **GitHub, LinkedIn, Discord, and other dev platforms**<br>🤝 Looking to connect with fellow **frontend developers and mentors**<br>🌱 Actively learning and building with **modern JavaScript frameworks and best practices**<br>💬 Happy to chat **about frontend tech, performance, and UI/UX**<br>⚡ Fun fact: **I’m pretty funny… or at least my console logs think so 😄**
 
