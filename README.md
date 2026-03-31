@@ -1,6 +1,6 @@
 # Hi 👋, I'm Narendra Koya
 
-### 👋 Hi! I’m a Full Stack Developer (Next.js) passionate about building fast, responsive, accessible, and user-friendly web experiences.
+### I’m a Full Stack Developer (Next.js) passionate about building fast, responsive, accessible, and user-friendly web experiences.
 
 - 🔭 I'm currently working on **building responsive and modern web applications**
 
