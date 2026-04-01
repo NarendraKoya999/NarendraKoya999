@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I enjoy turning coffee into clean code ☕**
 
-- 👨‍💻 All of my projects are available at **[https://narendrakoya999.github.io](https://narendrakoya999.github.io)**
+- 👨‍💻 All of my projects are available at **[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/NarendraKoya999)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
