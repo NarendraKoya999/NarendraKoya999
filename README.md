@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **frontend development, UI design, and debugging**
 
-- 📫 How to reach me **narendra.koya.in@gmail.com**
+- 📫 How to reach me **[![Email](https://img.shields.io/badge/Email-Contact-D44638?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=narendra.koya.in@gmail.com)**
 
 - ⚡ Fun fact **I enjoy turning coffee into clean code ☕**
 
