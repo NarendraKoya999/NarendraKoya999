@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **frontend and full-stack projects**
 
-- 🤝 I'm looking for help with **learning system design and architecture plans**
+- 🤝 I'm looking for help with **learning system design and architecture**
 
 - 💬 Ask me about **frontend development, UI design, and debugging**
 
